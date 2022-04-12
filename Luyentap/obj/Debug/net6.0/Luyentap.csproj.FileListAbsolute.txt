@@ -1,0 +1,15 @@
+D:\LTCSDL\Luyentap\bin\Debug\net6.0\Luyentap.exe
+D:\LTCSDL\Luyentap\bin\Debug\net6.0\Luyentap.deps.json
+D:\LTCSDL\Luyentap\bin\Debug\net6.0\Luyentap.runtimeconfig.json
+D:\LTCSDL\Luyentap\bin\Debug\net6.0\Luyentap.dll
+D:\LTCSDL\Luyentap\bin\Debug\net6.0\Luyentap.pdb
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.csproj.AssemblyReference.cache
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.AssemblyInfoInputs.cache
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.AssemblyInfo.cs
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.csproj.CoreCompileInputs.cache
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.dll
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\ref\Luyentap.dll
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.pdb
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\Luyentap.genruntimeconfig.cache
+D:\LTCSDL\Luyentap\obj\Debug\net6.0\refint\Luyentap.dll

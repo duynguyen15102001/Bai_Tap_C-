@@ -1,0 +1,15 @@
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.csproj.AssemblyReference.cache
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.AssemblyInfoInputs.cache
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.AssemblyInfo.cs
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.csproj.CoreCompileInputs.cache
+D:\LTCSDL\TH5\bin\Debug\net6.0\TH5.exe
+D:\LTCSDL\TH5\bin\Debug\net6.0\TH5.deps.json
+D:\LTCSDL\TH5\bin\Debug\net6.0\TH5.runtimeconfig.json
+D:\LTCSDL\TH5\bin\Debug\net6.0\TH5.dll
+D:\LTCSDL\TH5\bin\Debug\net6.0\ref\TH5.dll
+D:\LTCSDL\TH5\bin\Debug\net6.0\TH5.pdb
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.dll
+D:\LTCSDL\TH5\obj\Debug\net6.0\ref\TH5.dll
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.pdb
+D:\LTCSDL\TH5\obj\Debug\net6.0\TH5.genruntimeconfig.cache

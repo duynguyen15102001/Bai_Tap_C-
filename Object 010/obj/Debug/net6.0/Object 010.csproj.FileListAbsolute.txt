@@ -1,0 +1,15 @@
+D:\LTCSDL\Object 010\bin\Debug\net6.0\Object 010.exe
+D:\LTCSDL\Object 010\bin\Debug\net6.0\Object 010.deps.json
+D:\LTCSDL\Object 010\bin\Debug\net6.0\Object 010.runtimeconfig.json
+D:\LTCSDL\Object 010\bin\Debug\net6.0\Object 010.dll
+D:\LTCSDL\Object 010\bin\Debug\net6.0\ref\Object 010.dll
+D:\LTCSDL\Object 010\bin\Debug\net6.0\Object 010.pdb
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.csproj.AssemblyReference.cache
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.AssemblyInfoInputs.cache
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.AssemblyInfo.cs
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.csproj.CoreCompileInputs.cache
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.dll
+D:\LTCSDL\Object 010\obj\Debug\net6.0\ref\Object 010.dll
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.pdb
+D:\LTCSDL\Object 010\obj\Debug\net6.0\Object 010.genruntimeconfig.cache
